@@ -1,4 +1,5 @@
 # 💼 Ashvini Alashetty – Portfolio
+![Ashvini Alashetty]([https://github.com/yourusername/portfolio/blob/main/profile.jpg](https://drive.google.com/file/d/1Hm3rbBxWcdMpuNIBVKL_iydY2x2FRxWn/view?usp=drive_link))
 
 ## 📌 About Me
 I am a **data scientist, researcher, and academician** with expertise in **machine learning, deep learning, and healthcare data analytics**. I have a **Ph.D. in Healthcare Data Analytics using ML** and extensive experience in **research, industry, and teaching**.
