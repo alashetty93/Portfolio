@@ -8,7 +8,7 @@ I am a **data scientist, researcher, and academician** with expertise in **machi
 - 💼 **3.5 years in industry (Data Science) and 3.5 years in academia**
 - 📜 **Published 4 Scopus-indexed journals & attended 4 international conferences**
 - 🔍 **Research Focus:** Deep Learning, Healthcare AI, Digital Health, Predictive Analytics
-- 🏆 **3 Patents (1 granted, 2 under review)**
+- 🏆 **3 Patents (3 granted)**
 
 📫 **Contact Me:** [LinkedIn](www.linkedin.com/in/ashvinialashetty) | [GitHub](alashetty93
 Ashvinialashetty) | [Google Scholar](Ashvini Alashetty) | [Email](ashwinialashetty@gmail.com)
@@ -62,8 +62,10 @@ _(More projects on GitHub)_
 
 ## 📝 Blog & Research Insights
 📖 I write about **deep learning, digital health, and AI in healthcare**.
-- **[How CNNs are Revolutionizing Medical Imaging](#)**
-- **[Deep Learning for Early Heart Attack Prediction](#)**
+- **[Why is your deep learning model not improving? 🤔 Here are 3 debugging tips that saved my projects!](https://medium.com/@ashwinialashetty/why-is-your-deep-learning-model-not-improving-b8d8b702967f)**
+- **[Support Vector Machines](https://medium.com/@ashwinialashetty/support-vector-machines-c70d12e9ca6c)**
+- **[Boosting (hypothesis boosting)](https://medium.com/@ashwinialashetty/boosting-hypothesis-boosting-603b8a7b957a)**
+- **[Dimensionality Reduction](https://medium.com/@ashwinialashetty/dimensionality-reduction-be65d3e44707)**
 
 📢 Follow me on **Medium / LinkedIn** for updates!
 
