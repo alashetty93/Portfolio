@@ -1,4 +1,4 @@
-# 💼 Ashvini Alashetty – Portfolio
+# 💼 Dr. Ashvini Alashetty – Portfolio
 
 ## 📌 About Me
 I am a **data scientist, researcher, and academician** with expertise in **machine learning, deep learning, and healthcare data analytics**. I have a **Ph.D. in Healthcare Data Analytics using ML** and extensive experience in **research, industry, and teaching**.
