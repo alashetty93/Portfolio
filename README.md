@@ -4,11 +4,11 @@
 I am a **data scientist, researcher, and academician** with expertise in **machine learning, deep learning, and healthcare data analytics**. I have a **Ph.D. in Healthcare Data Analytics using ML** and extensive experience in **research, industry, and teaching**.
 
 - 🎓 **Doctorate from Karnataka State Akkamahadevi Women's University**
-- 🔬 **5+ years of research experience** in AI & ML
+- 🔬 **7+ years of research experience** in AI & ML
 - 💼 **3.5 years in industry (Data Science) and 3.5 years in academia**
-- 📜 **Published 4 Scopus-indexed journals & attended 4 international conferences**
+- 📜 **Published 10 Scopus-indexed journals & attended 4 international conferences**
 - 🔍 **Research Focus:** Deep Learning, Healthcare AI, Digital Health, Predictive Analytics
-- 🏆 **3 Patents (3 granted)**
+- 🏆 **5 Patents (3 granted)**
 
 📫 **Contact Me:** [LinkedIn](www.linkedin.com/in/ashvinialashetty) | [GitHub](alashetty93
 Ashvinialashetty) | [Google Scholar](Ashvini Alashetty) | [Email](ashwinialashetty@gmail.com)
